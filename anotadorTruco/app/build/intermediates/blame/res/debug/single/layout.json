@@ -1,6 +1,18 @@
 [
     {
+        "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_juego.xml",
+        "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/layout/fragment_juego.xml"
+    },
+    {
         "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
         "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_portada.xml",
+        "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/layout/fragment_portada.xml"
+    },
+    {
+        "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_historial.xml",
+        "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/layout/fragment_historial.xml"
     }
 ]
