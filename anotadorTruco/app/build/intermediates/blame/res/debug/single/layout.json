@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/resultado_list_item.xml",
+        "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/layout/resultado_list_item.xml"
+    },
+    {
         "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_juego.xml",
         "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/layout/fragment_juego.xml"
     },

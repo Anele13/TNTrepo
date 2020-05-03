@@ -1073,6 +1073,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable fondo
+drawable historial
 drawable ic_fosforo
 drawable ic_fosforo2
 drawable ic_launcher_background
@@ -1086,6 +1087,7 @@ drawable ic_tantos_3
 drawable ic_tantos_4
 drawable ic_tantos_5
 drawable ic_tantos_vacio
+drawable juego
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1256,6 +1258,7 @@ id line1
 id line3
 id listMode
 id list_item
+id main_nav_host_fragment
 id masked
 id media_actions
 id message
@@ -1289,6 +1292,7 @@ id radio
 id right
 id right_icon
 id right_side
+id rv_resultado_list
 id save_image_matrix
 id save_non_transition_alpha
 id save_scale_type
@@ -1347,15 +1351,14 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
-id textView
 id textView2
-id textView3
 id textView6
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
 id textinput_helper_text
 id time
+id tipo_resultado
 id title
 id titleDividerNoCustom
 id title_template
@@ -1467,6 +1470,7 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout resultado_list_item
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material

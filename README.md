@@ -1,7 +1,11 @@
 ### Repositorio de la materia Taller de Nuevas Tecnologias:
 
-Hasta este momento la version del anotador esta funcional como se observa en la imagen
+Hasta este momento la version del anotador esta funcional como se observa en las imagenes:
 
-![anotador](img/anotador.gif)
+<p float="left">
+  <img src="img/inicio.png" title="inicio" width="150" height="100"/>
+  <img src="img/juego.png" title="principal" width="150" height="100"/>
+  <img src="img/historial.png" title="historial" width="150" height="100"/>
+</p>
 
-en versiones posteriores se iran añadiendo mas features.
+

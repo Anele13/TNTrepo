@@ -27,5 +27,22 @@
         android:id="@+id/historialFragment"
         android:name="com.example.clase2.HistorialFragment"
         android:label="fragment_historial"
-        tools:layout="@layout/fragment_historial" />
+        tools:layout="@layout/fragment_historial" >
+        <argument
+            android:name="puntajeA"
+            app:argType="integer"
+            android:defaultValue="0" />
+        <argument
+            android:name="puntajeB"
+            app:argType="integer"
+            android:defaultValue="0" />
+        <argument
+            android:name="equipoA"
+            app:argType="string"
+            android:defaultValue="null" />
+        <argument
+            android:name="equipoB"
+            app:argType="string"
+            android:defaultValue="null" />
+    </fragment>
 </navigation>

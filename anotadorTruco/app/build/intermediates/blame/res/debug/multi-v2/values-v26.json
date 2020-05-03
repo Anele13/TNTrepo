@@ -4,7 +4,7 @@
             "outputFile": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/home/anele/.gradle/caches/transforms-2/files-2.1/a8776343fdac874fa977e09d507079eb/appcompat-1.1.0/res/values-v26/values-v26.xml",
+                    "source": "/home/anele/.gradle/caches/transforms-2/files-2.1/732abc9f6498d69bdd5b5c1b7b810d12/appcompat-1.1.0/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

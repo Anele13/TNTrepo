@@ -8,6 +8,10 @@
         "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/drawable/ic_fosforo.xml"
     },
     {
+        "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/res/merged/debug/drawable_historial.png.flat",
+        "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/drawable/historial.png"
+    },
+    {
         "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
@@ -44,6 +48,10 @@
         "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/drawable/ic_tantos_1.xml"
     },
     {
+        "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/res/merged/debug/drawable_fondo.png.flat",
+        "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/drawable/fondo.png"
+    },
+    {
         "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
@@ -78,10 +86,6 @@
     {
         "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/res/merged/debug/drawable_fondo.jpg.flat",
-        "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/drawable/fondo.jpg"
     },
     {
         "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
@@ -128,11 +132,19 @@
         "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/drawable/ic_tantos_2.xml"
     },
     {
+        "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/res/merged/debug/drawable_juego.png.flat",
+        "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/drawable/juego.png"
+    },
+    {
         "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
         "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/res/merged/debug/layout_fragment_portada.xml.flat",
         "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/layout/fragment_portada.xml"
+    },
+    {
+        "merged": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/build/intermediates/res/merged/debug/layout_resultado_list_item.xml.flat",
+        "source": "/home/anele/Escritorio/tnt/proyectos/TNTrepo/anotadorTruco/app/src/main/res/layout/resultado_list_item.xml"
     }
 ]
